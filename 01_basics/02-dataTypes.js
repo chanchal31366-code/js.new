@@ -4,7 +4,7 @@
 
 let name =" chanchal"
 let age = 19
-let isloggedIn=false
+let isloggedIn=false 
 
 //Primitive datatype
 //number => 2 to power 53
